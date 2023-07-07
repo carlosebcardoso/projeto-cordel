@@ -50,7 +50,7 @@ header a:hover {
 main p {
     font-family: var(--fonte-texto);
     line-height: 2em;
-    padding: 15px;
+    padding: 35px 15px;
     font-size: 3.5vw;
 }
 
